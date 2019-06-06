@@ -24,7 +24,7 @@ def VipCrack():
 
 ifae = tk.Tk()
 ifae.geometry("400x400")
-ifae.title("VIP Crack QQ联系1069071702")
+ifae.title("VIP Crack QQ联系4536576476476")
 
 tk.Label(ifae, text="请复制浏览器地址到下方", font=("宋体", 16)).place(x=0, y=50)
 t1 = tk.Text(ifae, width=50, height=1)
